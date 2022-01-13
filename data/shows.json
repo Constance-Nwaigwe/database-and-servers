@@ -1,0 +1,28 @@
+{
+    "showdata": [
+        {
+            "title": "Teen Wolf",
+            "genre": "Drama",
+            "rating": 4,
+            "status": "Complete"
+        },
+        {
+            "title": "Sabrina",
+            "genre": "Fantasy",
+            "rating": 4.5,
+            "status": "Ongoing"
+        },
+        {
+            "title": "Devious Maids",
+            "genre": "Drama",
+            "rating": 4.8,
+            "status": "Canceled"
+        },
+        {
+            "title": "",
+            "genre": "",
+            "rating": "",
+            "status": ""
+        }
+    ]
+}
