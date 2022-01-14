@@ -19,10 +19,46 @@
             "status": "Canceled"
         },
         {
-            "title": "",
-            "genre": "",
-            "rating": "",
-            "status": ""
+            "title": "Spongebob Squarepants",
+            "genre": "comedy",
+            "rating": "5",
+            "status": "Ongoing"
+        },
+        {
+            "title": "jujutsu kaisen",
+            "genre": "Supernatural",
+            "rating": "5",
+            "status": "Ongoing"
+        },
+        {
+            "title": "Attack On Titian",
+            "genre": "Action",
+            "rating": "5",
+            "status": "Ongoing"
+        },
+        {
+            "title": "Black Clover",
+            "genre": "Adventure",
+            "rating": "4",
+            "status": "Ongoing"
+        },
+        {
+            "title": "Black Butler",
+            "genre": "Supernatural",
+            "rating": "4",
+            "status": "Complete"
+        },
+        {
+            "title": "The Flash",
+            "genre": "Action",
+            "rating": "3",
+            "status": "Ongoing"
+        },
+        {
+            "title": "Loki",
+            "genre": "Action",
+            "rating": "4",
+            "status": "Ongoing"
         }
     ]
 }

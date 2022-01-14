@@ -8,7 +8,8 @@ Users.init({
     email: DataTypes.STRING,
     password: DataTypes.STRING
 },{
-    sequelize: db
+    sequelize: db,
+    timestamps: false
 })
 
 Shows.init({
@@ -17,7 +18,8 @@ Shows.init({
     rating: DataTypes.INTEGER,
     status: DataTypes.STRING
 },{
-    sequelize: db
+    sequelize: db,
+    timestamps: false
 })
 
 
